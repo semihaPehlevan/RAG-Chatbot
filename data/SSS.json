@@ -1,0 +1,454 @@
+[
+ {
+  "Question": "Çift Anadal Programı (ÇAP) nedir?",
+  "Answer": "Bir lisans\/ön lisans programını başarı ile sürdüren öğrencilerin, bu lisans\/ön lisans programına ek olarak kayıtlı oldukları ikinci bir lisans\/ön lisans programıdır.",
+  "Topic": "Çift Anadal Programı (ÇAP)"
+ },
+ {
+  "Question": "Yandal programı nedir?",
+  "Answer": "Lisans programını başarıyla sürdüren öğrencilerin, bu lisans programına ek olarak üniversitede kayıtlı oldukları yandal programıdır.",
+  "Topic": "Yandal Programı - Başarı ve Mezuniyet"
+ },
+ {
+  "Question": "Anadal ne demektir?",
+  "Answer": "Öğrencinin ÖSYS veya eşdeğeri bir sınavla yerleştirilerek veya yatay\/dikey geçiş yolu ile kabul edilerek üniversitede kayıtlı oldukları lisans\/ön lisans programıdır.",
+  "Topic": "Anadal"
+ },
+ {
+  "Question": "ÇAP açılabilmesi için gerekli asgari ve azami AKTS kredi yükleri nelerdir?",
+  "Answer": "Lisans programlarında en az 90 AKTS, en fazla 210 AKTS'lik ders verilmesi gerekir. Ön lisans programlarında ise en az 45 AKTS, en fazla 90 AKTS'lik ders verilmesi gerekir.",
+  "Topic": "Çift Anadal Programı (ÇAP) - Eğitim-Öğretime İlişkin Esaslar"
+ },
+ {
+  "Question": "ÇAP programının anadal programı ile ilişkisi nedir?",
+  "Answer": "ÇAP, öğrencinin kayıtlı olduğu anadal programından bağımsız bir programdır. ÇAP nedeniyle, öğrencinin anadal programındaki başarısı ve mezuniyeti hiçbir biçimde etkilenmez.",
+  "Topic": "Çift Anadal Programı (ÇAP) - Eğitim-Öğretime İlişkin Esaslar"
+ },
+ {
+  "Question": "Bir öğrenci aynı anda kaç ÇAP'a başvurabilir ve kaçına kayıt yaptırabilir?",
+  "Answer": "Bir öğrenci en fazla 2 (iki) ÇAP başvurusu yapabilir, fakat birden fazla ÇAP'a kayıt yaptıramaz.",
+  "Topic": "Çift Anadal Programı (ÇAP) - Eğitim-Öğretime İlişkin Esaslar"
+ },
+ {
+  "Question": "Bir öğrenci aynı anda ÇAP ve Yandal programına kayıt yaptırabilir mi?",
+  "Answer": "Anadal programına ek olarak, bir ÇAP ve bir yandal programına kayıt yaptırılabilir.",
+  "Topic": "Çift Anadal Programı (ÇAP) - Eğitim-Öğretime İlişkin Esaslar"
+ },
+ {
+  "Question": "Lisans\/Önlisans programları arasında ÇAP yapılabilir mi?",
+  "Answer": "Lisans programlarından ön lisans programlarına ÇAP yapılabilir. Ancak ön lisans programlarından lisans programlarına ÇAP açılamaz.",
+  "Topic": "Çift Anadal Programı (ÇAP) - Eğitim-Öğretime İlişkin Esaslar"
+ },
+ {
+  "Question": "ÇAP öğrencisi bir dönemde anadal derslerine ilave olarak en fazla kaç AKTS ders alabilir?",
+  "Answer": "ÇAP programına kayıtlı öğrenci, bir dönemde anadal programında aldığı 30 AKTS'lik derslere ilave olarak en fazla 15 AKTS veya 3 ders alabilir.",
+  "Topic": "Çift Anadal Programı (ÇAP) - Eğitim-Öğretime İlişkin Esaslar"
+ },
+ {
+  "Question": "ÇAP kontenjanları için oranlar nelerdir?",
+  "Answer": "Hukuk, tıp ve sağlık programları ile mühendislik programları için ÇAP kontenjanı ilgili yıldaki kontenjanların  %10'undan fazla olamaz. Diğer programlar için ise programların ilgili yıldaki kontenjanının %20'sinden az olamaz.",
+  "Topic": "Çift Anadal Programı (ÇAP) - Eğitim-Öğretime İlişkin Esaslar"
+ },
+ {
+  "Question": "ÇAP'a en erken ve en geç ne zaman başvuru yapılabilir?",
+  "Answer": "Lisans programlarında: En erken üçüncü yarıyılın başında, en geç ise; dört yıllık programlarda beşinci yarıyılın başında, beş yıllık programlarda yedinci yarıyılın başında, altı yıllık programlarda ise dokuzuncu yarıyılın başında başvurulabilir. Ön lisans programlarında: En erken ikinci yarıyılın başında, en geç ise üçüncü yarıyılın başında başvurulabilir.",
+  "Topic": "Çift Anadal Programı (ÇAP) - Başvuru ve Koşullar"
+ },
+ {
+  "Question": "ÇAP başvurusunda bulunabilmek için genel not ortalaması (GNO) şartı nedir?",
+  "Answer": "Öğrencinin GNO'sunun en az 2,72\/4,00 olması gerekir.",
+  "Topic": "Çift Anadal Programı (ÇAP) - Başvuru ve Koşullar"
+ },
+ {
+  "Question": "Başarı sıralaması şartı aranan programlarda ÇAP yapmak isteyen öğrencilerin sağlaması gereken ek şart nedir?",
+  "Answer": "Kayıt olduğu yıldaki ilgili programın Yükseköğretim Kurulu tarafından belirlenen başarı sıralaması şartını sağlamış olması gerekir.",
+  "Topic": "Çift Anadal Programı (ÇAP) - Başvuru ve Koşullar"
+ },
+ {
+  "Question": "Yüzde yirmilik dilimde bulunamayan öğrenciler ÇAP'a nasıl başvurabilir?",
+  "Answer": "GNO'su en az 2,72\/4,00 olan, ancak yüzde yirmilik dilimde bulunamayan öğrenciler, ÇAP yapılacak programın ilgili yıldaki taban puanından az olmamak üzere puana sahip olmak kaydıyla başvurabilirler.",
+  "Topic": "Çift Anadal Programı (ÇAP) - Başvuru ve Koşullar"
+ },
+ {
+  "Question": "GNO şartını sağlayan bir öğrencinin başarı sıralaması şartı nedir?",
+  "Answer": "Öğrencinin, anadal programının ilgili sınıfında başarı sıralaması itibarıyla en üst yüzde yirmisinde bulunması gerekir.",
+  "Topic": "Çift Anadal Programı (ÇAP) - Başvuru ve Koşullar"
+ },
+ {
+  "Question": "ÇAP'tan mezun olmak için anadal programı GNO'su en az kaç olmalıdır?",
+  "Answer": "Anadal programı genel not ortalamasının 4,00 üzerinden en az 2,72 olması gerekir.",
+  "Topic": "Çift Anadal Programı (ÇAP) - Başarı ve Mezuniyet"
+ },
+ {
+  "Question": "Öğrencinin ÇAP kaydı hangi durumda silinir?",
+  "Answer": "Anadal programındaki genel not ortalaması, ikinci kez 4,00 üzerinden 2,50'nin altına düşerse öğrencinin ikinci anadal diploma programından kaydı silinir. Ayrıca ÇAP'tan iki yarıyıl üst üste ders almayan öğrencinin ÇAP kaydı silinir.",
+  "Topic": "Çift Anadal Programı (ÇAP) - Başarı ve Mezuniyet"
+ },
+ {
+  "Question": "ÇAP diploması ne zaman verilebilir?",
+  "Answer": "ÇAP'a devam eden öğrenciye mezuniyet diploması ancak devam ettiği anadal programından mezun olması halinde verilebilir.",
+  "Topic": "Çift Anadal Programı (ÇAP) - Başarı ve Mezuniyet"
+ },
+ {
+  "Question": "Anadal programından mezun olup ÇAP'ı bitiremeyen öğrencilerin öğrenim süresi ne kadardır?",
+  "Answer": "Öğrenim süresi, ÇAP'a kayıt yaptırdığı eğitim öğretim yılından itibaren 2547 sayılı Kanunun 44 üncü maddesinin (c) fıkrasında belirtilen azami süredir.",
+  "Topic": "Çift Anadal Programı (ÇAP) - Başarı ve Mezuniyet"
+ },
+ {
+  "Question": "ÇAP'ta başarısız olan bir öğrenci yandal sertifikası alabilir mi?",
+  "Answer": "ÇAP'da başarısız olan öğrencinin ÇAP kapsamında almış olduğu dersler, yandal programı için yeterli ise yandal sertifikası verilir.",
+  "Topic": "Çift Anadal Programı (ÇAP) - Başarı ve Mezuniyet"
+ },
+ {
+  "Question": "Yandal programının amacı nedir?",
+  "Answer": "Anadal lisans programlarını başarıyla yürüten öğrencilerin, ilgi duydukları başka bir lisans programı kapsamında belirli bir konuya yönelik olarak bilgi ve görgülerini artırmayı sağlamaktır.",
+  "Topic": "Yandal Programı - Eğitim-Öğretime İlişkin Esaslar"
+ },
+ {
+  "Question": "Yandal programı kaç AKTS ve kaç dersten oluşur?",
+  "Answer": "Yandal programı 30 AKTS kredisinden az olmamak kaydı ile en az altı dersten oluşur ve bu dersler Senato tarafından onaylanır.",
+  "Topic": "Yandal Programı - Eğitim-Öğretime İlişkin Esaslar"
+ },
+ {
+  "Question": "Yandal programında alınması zorunlu asgari AKTS\/ders sayısı nedir?",
+  "Answer": "Anadal programı ile ortak veya eşdeğer dersler hariç olmak üzere, yandal programında toplam 20 AKTS kredisinden az olmamak kaydı ile en az dört ders alınması zorunludur.",
+  "Topic": "Yandal Programı - Eğitim-Öğretime İlişkin Esaslar"
+ },
+ {
+  "Question": "Yandal dersleri başka bir bölüm veya üniversiteden alınabilir mi?",
+  "Answer": "Yandal programındaki dersler başka bir bölüm veya üniversiteden alınamaz.",
+  "Topic": "Yandal Programı - Eğitim-Öğretime İlişkin Esaslar"
+ },
+ {
+  "Question": "Öğrencinin kendi bölümünde açılan yandal programına başvurma hakkı var mıdır?",
+  "Answer": "Bir öğrenci kendi bölümünde açılan yandal programlarına başvuramaz.",
+  "Topic": "Yandal Programı - Eğitim-Öğretime İlişkin Esaslar"
+ },
+ {
+  "Question": "Yandal programına kayıtlı öğrenci bir dönemde anadal derslerine ilave olarak en fazla kaç AKTS ders alabilir?",
+  "Answer": "Yandal programına kayıtlı öğrenci, bir dönemde anadal programında aldığı 30 AKTS kredilik derslere ilave olarak en fazla 15 AKTS veya 3 ders alabilir.",
+  "Topic": "Yandal Programı - Eğitim-Öğretime İlişkin Esaslar"
+ },
+ {
+  "Question": "Yandal programına en erken ve en geç ne zaman başvuru yapılabilir?",
+  "Answer": "Lisans diploma programında en erken üçüncü yarıyılın başında, en geç ise; dört yıllık programlarda beşinci yarıyılın başında, beş yıllık programlarda yedinci yarıyılın başında, altı yıllık programlarda ise dokuzuncu yarıyılın başında başvurulabilir.",
+  "Topic": "Yandal Programı - Başvuru, Kayıt ve Ayrılma"
+ },
+ {
+  "Question": "Yandal programına başvuru için GNO şartı nedir?",
+  "Answer": "Öğrencinin genel ağırlıklı not ortalamasının en az 2,50\/4,00 ve üzeri olması gerekir. Ayrıca bulunduğu döneme kadar ders planındaki tüm dersleri almış ve başarmış olması gerekir.",
+  "Topic": "Yandal Programı - Başvuru, Kayıt ve Ayrılma"
+ },
+ {
+  "Question": "Bir öğrenci aynı anda kaç yandal programına başvurabilir ve kaçına kayıt yaptırabilir?",
+  "Answer": "Bir öğrenci aynı anda iki yandal programına tercih sıralaması yaparak başvurabilir, ancak sadece bir yandal programına kayıt yaptırabilir.",
+  "Topic": "Yandal Programı - Başvuru, Kayıt ve Ayrılma"
+ },
+ {
+  "Question": "Öğrencinin yandal programından kaydı hangi durumda silinir?",
+  "Answer": "Anadal programında genel not ortalaması 2,29\/4,00'ın altına düşen öğrencinin yandal programından kaydı silinir. Ayrıca yandal programında ders açıldığı halde, iki yarıyıl üst üste ders kaydı yapmayan öğrencinin yandal programından kaydı silinir.",
+  "Topic": "Yandal Programı - Başvuru, Kayıt ve Ayrılma"
+ },
+ {
+  "Question": "Yandal programından kendi isteğiyle kayıt sildiren öğrenci tekrar kayıt yaptırabilir mi?",
+  "Answer": "Yandal programından kayıt sildiren öğrenci, aynı yandal programına tekrar kayıt yaptıramaz.",
+  "Topic": "Yandal Programı - Başvuru, Kayıt ve Ayrılma"
+ },
+ {
+  "Question": "Yandal programını tamamlamak için gerekli GNO şartı nedir?",
+  "Answer": "Yandal ders planındaki derslerin anadal programındaki derslerden bağımsız olarak genel not ortalaması en az 2,00\/4,00 olmalıdır.",
+  "Topic": "Yandal Programı - Başarı ve Mezuniyet"
+ },
+ {
+  "Question": "Yandal programını tamamlayanlara ne verilir?",
+  "Answer": "Eğitim aldıkları alanda sadece yandal sertifikası (başarı belgesi) düzenlenir. Bu sertifika diploma yerine geçmez.",
+  "Topic": "Yandal Programı - Başarı ve Mezuniyet"
+ },
+ {
+  "Question": "Yandal sertifikası ne zaman verilir?",
+  "Answer": "Yandal programını tamamlayan öğrenciye, anadal programından mezuniyet hakkını elde etmeden yandal programının sertifikası verilmez.",
+  "Topic": "Yandal Programı - Başarı ve Mezuniyet"
+ },
+ {
+  "Question": "Anadal programından mezun olup yandal programını bitiremeyen öğrencilere ek süre verilir mi?",
+  "Answer": "İlgili yönetim kurulu kararı ile en fazla iki yarıyıl ek süre tanınır.",
+  "Topic": "Yandal Programı - Başarı ve Mezuniyet"
+ },
+ {
+  "Question": "Muafiyet ne anlama gelir?",
+  "Answer": "Daha önce alınmış ve başarılmış ders\/derslerin yerine, kredi (AKTS\/Ders kredisi) ve içerik uyumuna göre o müfredatta bulunan ders\/derslerin eşdeğerliğinin kabul edilmesidir.",
+  "Topic": "Muafiyet"
+ },
+ {
+  "Question": "İntibak ne anlama gelir?",
+  "Answer": "Sakarya Üniversitesi'ne kayıt hakkı kazanan öğrencilerin daha önce Sakarya Üniversitesi dâhil herhangi bir yükseköğretim kurumundan alıp başardıkları ve kayıt hakkı kazandığı programın ders planında eşleştirilen dersleri ve buna göre devam edecekleri dönemi belirleme işlemidir.",
+  "Topic": "İntibak"
+ },
+ {
+  "Question": "Muafiyet ve intibak işlemleri kim tarafından karara bağlanır?",
+  "Answer": "İlgili İntibak Komisyonu'nun incelemesi sonrasında hazırlanan karar, ilgili yönetim kurulunca değerlendirilerek karara bağlanır.",
+  "Topic": "Muafiyet - İntibak"
+ },
+ {
+  "Question": "Yeni kayıt olan öğrencilerin muafiyet başvurusu için son tarih nedir?",
+  "Answer": "Üniversiteye kayıt oldukları eğitim-öğretim yılının ikinci haftası sonuna kadar ilgili bölüm başkanlığına başvurmaları gerekir. Eğitim-öğretim başlangıç tarihinden sonra kayıt yaptıran öğrenciler ise, kayıt tarihinden itibaren en geç iki hafta içinde başvuru yapmalıdır.",
+  "Topic": "Muafiyet İntibak - Başvuru Süreleri ve Şartları"
+ },
+ {
+  "Question": "Hazırlık sınıfı okuyan öğrenciler ne zaman başvurmalıdır?",
+  "Answer": "Hazırlık sınıfının tamamlanmasının ardından kayıtlı oldukları programa başladıkları eğitim öğretim yılının ikinci haftası sonuna kadar ilgili bölüm başkanlığına başvuru yapmaları gerekir.",
+  "Topic": "Muafiyet İntibak - Başvuru Süreleri ve Şartları"
+ },
+ {
+  "Question": "Belirtilen süreler dışında tekrar muafiyet başvurusu yapılabilir mi?",
+  "Answer": "Belirtilen süreler dışında öğrenim süresi boyunca bir daha muafiyet başvurusu yapılamaz, ancak ders planına yeni eklenen dersler için muafiyet talebi yapılabilir.",
+  "Topic": "Muafiyet İntibak - Başvuru Süreleri ve Şartları"
+ },
+ {
+  "Question": "Muafiyet başvurusunda hangi belgeler sunulmalıdır?",
+  "Answer": "Öğrencinin, muafiyet talep ettiği ders\/dersleri belirten dilekçesine; daha önce öğrenim gördüğü yükseköğretim kurumu tarafından onaylı ders içeriklerini ve transkriptini eklemesi gerekir.",
+  "Topic": "Muafiyet İntibak - Başvuru Süreleri ve Şartları"
+ },
+ {
+  "Question": "Yurt dışındaki üniversitelerden alınan dersler için muafiyet şartı nedir?",
+  "Answer": "Yükseköğretim Kurulu tarafından denkliği tanınan yurt dışındaki üniversitelerden alınan dersler için muafiyet ve intibak işlemleri yapılabilir. Farklı dilde alınmış ise ilgili kurum ya da noter onaylı Türkçe ders içeriği ve transkriptinin de eklenmesi gerekir.",
+  "Topic": "Muafiyet İntibak - Başvuru Süreleri ve Şartları"
+ },
+ {
+  "Question": "Aynı anda farklı programlarda kayıtlı olan öğrenciler, aldıkları dersleri diğer programda saydırabilir mi?",
+  "Answer": "Aynı anda bir ön lisans ve lisans öğrenimine devam eden öğrenciler, kayıtlı olduğu programlardan birinden almış oldukları dersleri, diğer programın eşdeğer derslerine karşılık muafiyet talebinde bulunamazlar.",
+  "Topic": "Muafiyet İntibak - Başvuru Süreleri ve Şartları"
+ },
+ {
+  "Question": "Muafiyet talebi karara bağlanana kadar öğrenci derse devam etmek zorunda mıdır?",
+  "Answer": "Evet, öğrenci muafiyet talebinde bulunduğu ders\/derslere devam etmekle yükümlüdür.",
+  "Topic": "Muafiyet İşlemleri ve Kredi Transferi"
+ },
+ {
+  "Question": "Muafiyet verilen derslerin notları genel not ortalamasına dâhil edilir mi?",
+  "Answer": "Muafiyet verilerek öğrenci bilgi sistemine işlenen notlar genel not ortalama hesaplamasında dikkate alınır. Ancak, not çizelgesinde \"Başarılı Geçti\" olarak belirtildiği durumlarda (MU) notu verilir ve ortalamaya dâhil edilmez.",
+  "Topic": "Muafiyet İşlemleri ve Kredi Transferi"
+ },
+ {
+  "Question": "Başarısız notlu dersler için muafiyet işlemi yapılır mı?",
+  "Answer": "Hayır, FD, FF, GR, DZ, YZ veya eşdeğerlerine haiz dersler için muafiyet işlemi yapılmaz.",
+  "Topic": "Muafiyet İşlemleri ve Kredi Transferi"
+ },
+ {
+  "Question": "YT\/YZ olarak notlandırılan dersler için muafiyet şartı nedir?",
+  "Answer": "Sakarya Üniversitesi'nde YT\/YZ olarak notlandırılan dersler için yapılan muafiyet taleplerinde \"CC\" ve üstü başarı şartı aranır ve karşılığında \"YT\" notu verilir.",
+  "Topic": "Muafiyet İşlemleri ve Kredi Transferi"
+ },
+ {
+  "Question": "Hangi tür dersler için muafiyet talep edilemez?",
+  "Answer": "Bitirme Çalışması, tasarım, İşyeri eğitimi, İş yeri uygulaması gibi dersler için muafiyet talep edilemez. Staj derslerinin intibakında birim intibak komisyonu yetkilidir.",
+  "Topic": "Muafiyet İşlemleri ve Kredi Transferi"
+ },
+ {
+  "Question": "Muafiyet verilen bir dersi not yükseltmek amacıyla tekrar alabilir miyim?",
+  "Answer": "Evet, herhangi bir dersten muafiyet talebi kabul edilen öğrenciler, daha sonra bu derse not yükseltmek amacıyla tekrar kayıt yaptırabilirler. Bu durumda dersin başarı notu en son alınan nottur.",
+  "Topic": "Muafiyet İşlemleri ve Kredi Transferi"
+ },
+ {
+  "Question": "Türkçe olarak alınan dersin yabancı dille okutulan derse muafiyeti için şart nedir?",
+  "Answer": "Muafiyet talebi ancak yabancı dil yeterliliğine sahip öğrenciler için değerlendirmeye alınır.",
+  "Topic": "Muafiyet İşlemleri ve Kredi Transferi"
+ },
+ {
+  "Question": "Kredi ve not transferi için azami AKTS limitleri nedir?",
+  "Answer": "Lisans programlarında (dört yıllık eğitimde) en fazla 120 AKTS'lik, beş ve altı yıllık eğitimde 180 AKTS'lik dersten; ön lisans diploması alabilmek için ise en fazla 60 AKTS'lik dersten kredi transfer işlemi yapılır.",
+  "Topic": "Muafiyet İşlemleri ve Kredi Transferi"
+ },
+ {
+  "Question": "Başarıya dayalı yatay geçiş ile kayıt yaptıran öğrenci hangi yarıyıla intibak ettirilir?",
+  "Answer": "Başvuru yaptığı ve kabul edildiği yarıyıla intibakı yapılarak öğrenimine devam eder.",
+  "Topic": "İntibak İşlemleri - Yatay ve Dikey Geçiş"
+ },
+ {
+  "Question": "Merkezi Yerleştirme Puanına Göre Yatay Geçiş ile kayıt yaptıran öğrencilerin öğrenim süresi ne zaman başlar?",
+  "Answer": "ÖSYM ile yerleştiği yıldan itibaren öğrenim süresi devam eder.",
+  "Topic": "İntibak İşlemleri - Yatay ve Dikey Geçiş"
+ },
+ {
+  "Question": "Dikey Geçiş (DGS) yolu ile kayıt yaptıran öğrenci hangi yarıyıldan öğrenime başlar?",
+  "Answer": "3. yarıyıldan öğrenime başlar. Ancak ilgili bölüm alt yarıyıllardan da ders almasına karar verebilir.",
+  "Topic": "İntibak İşlemleri - Yatay ve Dikey Geçiş"
+ },
+ {
+  "Question": "Dikey Geçiş yapan öğrencilerin Harç Yarıyılı ve Azami Yarıyılı nasıl hesaplanır?",
+  "Answer": "Harç Yarıyılı beşinci yarıyıl, Azami Yarıyıl ise birinci yarıyıl işlenir.",
+  "Topic": "İntibak İşlemleri - Yatay ve Dikey Geçiş"
+ },
+ {
+  "Question": "Daha önce başka bir yükseköğretim kurumunda öğrenim gören öğrenciler hangi ders planına tabi olur?",
+  "Answer": "Geldiği yılın ders planına tabi olurlar.",
+  "Topic": "İntibak İşlemleri - Yatay ve Dikey Geçiş"
+ },
+ {
+  "Question": "Kredi transferi yapılan AKTS toplamına göre intibak yarıyılı nasıl belirlenir (Yatay Geçiş, DGS, ÇAP, Yandal hariç)?",
+  "Answer": "0-39 AKTS için 1. yarıyıl, 40-89 AKTS için 3. yarıyıl, 90-135 AKTS için 5.* yarıyıl, 136-180 AKTS için 7.* yarıyıl.",
+  "Topic": "İntibak İşlemleri - Yatay ve Dikey Geçiş"
+ },
+ {
+  "Question": "İntibakı 5. yarıyıl ve üstüne yapılan lisans öğrencisi mezun olmak için SAÜ'den en az kaç AKTS ders almalıdır?",
+  "Answer": "Lisans programında 5. ve daha üst yarıyıllara intibakı yapılan öğrenci, mezun olabilmek için SAÜ'den en az 120 AKTS'lik ders almalıdır.",
+  "Topic": "İntibak İşlemleri - Yatay ve Dikey Geçiş"
+ },
+ {
+  "Question": "Ders plan değişikliği nedeniyle dersin kaldırılması durumunda başarısız olan öğrencinin durumu ne olur?",
+  "Answer": "Kaldırılan dersten başarısız olan öğrenci, kaldırılan dersten sorumlu değildir. AKTS eksiği bulunan öğrenciye, yeni ders planından AKTS değerini sağlayacak kadar seçmeli ders alma hakkı tanınır.",
+  "Topic": "Ders Plan Değişikliklerinde Uygulanacak Esaslar"
+ },
+ {
+  "Question": "Kaldırılan dersin yerine yeni ders konması durumunda, eski dersten başarısız olan öğrencinin durumu nedir?",
+  "Answer": "Kaldırılan dersten başarısız olan öğrenci yeni dersten sorumludur.",
+  "Topic": "Ders Plan Değişikliklerinde Uygulanacak Esaslar"
+ },
+ {
+  "Question": "Zorunlu dersin seçimlik ders olması durumunda, dersten başarısız olan öğrenciler bu dersten sorumlu mudur?",
+  "Answer": "Hayır, dersten başarısız olan öğrenciler bu dersten sorumlu değildir.",
+  "Topic": "Ders Plan Değişikliklerinde Uygulanacak Esaslar"
+ },
+ {
+  "Question": "Dersin alt yarıyıla taşınması durumunda başarısız olan öğrenci için ne yapılır?",
+  "Answer": "Alt yarıyıllara taşınan dersten başarısız olan öğrenci dersten sorumludur. Eski yerinde bir defaya mahsus \"intibak dersi\/dersleri\" açılır ve bu dersler AKTS sınırlamasına tabi değildir.",
+  "Topic": "Ders Plan Değişikliklerinde Uygulanacak Esaslar"
+ },
+ {
+  "Question": "Muafiyet ve intibak kararlarının ilan süresi ne kadardır?",
+  "Answer": "Eğitim-öğretim yılı başından itibaren en geç dördüncü hafta sonuna kadar karara bağlanması ve ilan edilmesi gerekir. Başlangıçtan sonra kayıt yaptıranlar için ise, başvuruların tamamlanmasından itibaren iki haftadır.",
+  "Topic": "Muafiyet İntibak İtiraz"
+ },
+ {
+  "Question": "Muafiyet ve intibak kararlarına itiraz süresi ne kadardır?",
+  "Answer": "Kararın ilan tarihinden itibaren 5 (beş) iş günü içinde ilgili birime yapılır.",
+  "Topic": "Muafiyet İntibak İtiraz"
+ },
+ {
+  "Question": "Muafiyet ve intibak kararlarına itirazlar ne kadar sürede sonuçlandırılır?",
+  "Answer": "İtiraz tarihinden itibaren en geç 3 (üç) iş günü içinde değerlendirilerek karara bağlanır ve öğrenciye tebliğ edilir.",
+  "Topic": "Muafiyet İntibak İtiraz"
+ },
+ {
+  "Question": "\"Eşdeğer Diploma Programı\" ne anlama gelir?",
+  "Answer": "İsimleri aynı ya da isimleri farklı olmakla birlikte ilgili yönetim kurulları tarafından içeriklerinin en az %80'i (yüzde seksen) aynı olduğu tespit edilen diploma programlarını ifade eder.",
+  "Topic": "Eşdeğer Diploma"
+ },
+ {
+  "Question": "Genel Not Ortalamasına Dayalı yatay geçiş türleri nelerdir?",
+  "Answer": "Aynı düzeydeki eş değer diploma programları arasında kurum içi yatay geçiş, kurumlar arası yurt içi yatay geçiş ve kurumlar arası yurt dışı yatay geçiş olmak üzere üç çeşittir.",
+  "Topic": "Yatay Geçiş"
+ },
+ {
+  "Question": "Çift Anadal, Yandal veya İkinci Üniversite öğrencileri yatay geçiş başvurusu yapabilir mi?",
+  "Answer": "Çift Anadal, Yan Dal ve İkinci Üniversite kapsamında bir Yükseköğretim Kurumuna kayıtlı öğrenciler, ne Genel Not Ortalamasına Dayalı ne de Merkezi Yerleştirme Puanı ile yatay geçiş başvurusunda bulunamazlar.",
+  "Topic": "Yatay Geçiş Başvuru"
+ },
+ {
+  "Question": "GNO'ya dayalı yatay geçiş başvurusu için genel not ortalaması (GNO) şartı nedir?",
+  "Answer": "Kurum içi, kurumlar arası veya yurt dışı yatay geçiş için öğrencinin kayıtlı olduğu diploma programında bitirmiş olduğu dönemlere ait GNO'nun en az 4,00 üzerinden 3,00 olması gerekir.",
+  "Topic": "Genel Not Ortalamasına Dayalı Yatay Geçiş Koşulları"
+ },
+ {
+  "Question": "Yatay geçiş başvurusu yapabilmek için akademik durum şartları nelerdir?",
+  "Answer": "Yatay geçiş başvurusu yapabilmek için akademik durum şartları nelerdir?",
+  "Topic": "Genel Not Ortalamasına Dayalı Yatay Geçiş Koşulları"
+ },
+ {
+  "Question": "Ön lisans ve lisans programları arasında yatay geçiş yapılabilir mi?",
+  "Answer": "Ön lisans programları ile lisans programları arasında yatay geçiş başvurusu yapılamaz.",
+  "Topic": "Genel Not Ortalamasına Dayalı Yatay Geçiş Koşulları"
+ },
+ {
+  "Question": "Ön lisans ve lisans programlarında hangi dönemlere yatay geçiş yapılamaz?",
+  "Answer": "Ön lisans diploma programlarının ilk yarıyılı ile son yarıyılına , yarıyıl esasına dayalı lisans diploma programlarında öğrenim görülen ilk iki yarıyılı ile son iki yarıyıla, yıllık esasına dayalı lisans diploma programlarında ise ilk yıl ile son yıla yatay geçiş yapılamaz.",
+  "Topic": "Genel Not Ortalamasına Dayalı Yatay Geçiş Koşulları"
+ },
+ {
+  "Question": "Açık ve uzaktan öğretimden örgün öğretime geçiş şartları nelerdir?",
+  "Answer": "Öğrencinin öğrenim görmekte olduğu programdaki GNO'nun 4,00 üzerinden 3,15 olması veya kayıt olduğu yıldaki merkezi yerleştirme puanının, geçmek istediği üniversitenin diploma programının o yılki taban puanına eşit veya yüksek olması gerekir.",
+  "Topic": "Genel Not Ortalamasına Dayalı Yatay Geçiş Koşulları"
+ },
+ {
+  "Question": "Bir öğrenci yatay geçişte en fazla kaç programa başvuru yapabilir?",
+  "Answer": "Adaylar en fazla üç programa başvuru yapabilir.",
+  "Topic": "Genel Not Ortalamasına Dayalı Değerlendirme ve İntibak"
+ },
+ {
+  "Question": "Kurum içi ve kurumlar arası yatay geçişlerde değerlendirme puanı nasıl hesaplanır?",
+  "Answer": "Değerlendirmeye esas puan şu formülle hesaplanır: [(Adayın yerleştiği programdaki Merkezi Yerleştirme Puanı \/\nGeçiş yapılmak istenilen programın ilgili yıldaki taban puanı) * 100 * 0,60] + [Genel Not Ortalaması *\n0,40]",
+  "Topic": "Genel Not Ortalamasına Dayalı Değerlendirme ve İntibak"
+ },
+ {
+  "Question": "Kurum içi yatay geçiş kontenjanı nasıl belirlenir?",
+  "Answer": "Kurum içi yatay geçiş kontenjanı, ÖSYM Kılavuzunda öngörülen öğrenci kontenjanının yıllık yüzde on beşini geçmeyecek biçimde dönemlere bölünerek ilgili yönetim kurulları tarafından karara bağlanır.",
+  "Topic": "Genel Not Ortalamasına Dayalı Değerlendirme ve İntibak"
+ },
+ {
+  "Question": "Değerlendirme puanlarının eşit olması durumunda hangi adaya öncelik verilir?",
+  "Answer": "Kurumlar arası veya yurt dışı yatay geçişlerde değerlendirme puanının eşit olması halinde, merkezi yerleştirme puanı yüksek olan önceliklidir.",
+  "Topic": "Genel Not Ortalamasına Dayalı Değerlendirme ve İntibak"
+ },
+ {
+  "Question": "Yatay geçişle gelen öğrencilerin ders intibakları hangi yönergeye göre yapılır?",
+  "Answer": "Yatay geçişle gelen öğrencilerin daha önceki diploma programlarında almış ve başarmış oldukları dersler ile kredi ve notlarına ait intibaklar \"Sakarya Üniversitesi Muafiyet ve İntibak Yönergesine\" göre yapılır.",
+  "Topic": "Genel Not Ortalamasına Dayalı Değerlendirme ve İntibak"
+ },
+ {
+  "Question": "Merkezi yerleştirme puanıyla yatay geçiş başvurusu için temel şart nedir?",
+  "Answer": "Öğrencinin kayıt olduğu yıldaki merkezi yerleştirme puanının, geçmek istediği diploma programının taban puanına eşit veya yüksek olması durumunda, öğrenci başvurabilir.",
+  "Topic": "Merkezi Yerleştirme Puanıyla (Ek Madde 1) Yatay Geçiş"
+ },
+ {
+  "Question": "Merkezi yerleştirme puanıyla yatay geçişte kontenjan ne kadardır?",
+  "Answer": "Güz yarıyılı için her bir diploma programının hazırlık sınıfı dâhil her bir sınıfı için 90'ı geçmemek üzere ÖSYS Kılavuzlarında öngörülen öğrenci kontenjanının %30'u kadar kontenjan açılır.",
+  "Topic": "Merkezi Yerleştirme Puanıyla (Ek Madde 1) Yatay Geçiş"
+ },
+ {
+  "Question": "Merkezi Yerleştirme Puanı ile yatay geçişte yedek aday ilan edilir mi?",
+  "Answer": "Hayır, Merkezi Yerleştirme Puanı ile yatay geçişlerde yedek ilan edilmez.",
+  "Topic": "Merkezi Yerleştirme Puanıyla (Ek Madde 1) Yatay Geçiş"
+ },
+ {
+  "Question": "Yurt dışı yatay geçiş kontenjanı ne kadar olabilir?",
+  "Answer": "Yurt dışı yatay geçiş kontenjanı kurumlar arası yatay geçiş (yurt içi) kontenjanının yarısını geçemez.",
+  "Topic": "Yurt Dışı Yatay Geçiş ve Özel Durumlar"
+ },
+ {
+  "Question": "Kredi sistemine göre eğitim alan yurt dışından başvuran öğrencilerde yatay geçiş asgari kredi şartları nelerdir?",
+  "Answer": "III. yarıyıla başvuracak öğrenciler en az 60 Kredi\/AKTS, V. yarıyıla başvuracak öğrenci için en az 120 Kredi\/AKTS ders almış ve başarmış olması gerekmektedir.",
+  "Topic": "Yurt Dışı Yatay Geçiş ve Özel Durumlar"
+ },
+ {
+  "Question": "Yurt dışından kontenjansız yatay geçiş şartı nedir?",
+  "Answer": "Öğrencinin yatay geçiş yapmak istediği diploma programının ilgili sınıfına öğrenci kabulündeki taban puana sahip olması ve yurt dışında yükseköğrenim gördüğü tüm derslerden başarı şartı aranmaksızın başvurabilir.",
+  "Topic": "Yurt Dışı Yatay Geçiş ve Özel Durumlar"
+ },
+ {
+  "Question": "Yatay geçişte kamu görevlileri, eş ve çocukları hangi şartlarda kontenjan aranmaksızın nakledilebilir?",
+  "Answer": "Asli ve sürekli kamu hizmetlerinde görevlendirilenlerin sürekli olarak bir başka yere atanmaları halinde, kendileri ile bakmakla yükümlü oldukları çocukları ve eşleri, eşdeğer diploma programının son sınıf veya son iki yarıyılı dışında her sınıf veya yarıyılına; kayıtlı oldukları diploma programına girişteki merkezi yerleştirme puanlarının Sakarya Üniversitesi diploma programının yerleştikleri yıl itibariyle taban puanından daha yüksek olması şartı ile nakledilebilirler.",
+  "Topic": "Yurt Dışı Yatay Geçiş ve Özel Durumlar"
+ },
+ {
+  "Question": "Yatay geçiş hakkından feragat süresi ne kadardır?",
+  "Answer": "Kayıt hakkı kazanarak kayıt olan öğrenciler, yedeklerin son kayıt gününden itibaren 15 (on beş) gün içerisinde yatay geçiş hakkından feragat edebilir.",
+  "Topic": "Yurt Dışı Yatay Geçiş ve Özel Durumlar"
+ },
+ {
+  "Question": "Yatay geçişte yanlış bilgi veren öğrencinin durumu ne olur?",
+  "Answer": "Yatay geçiş yapan öğrencinin verdiği bilgi ve belgelerin doğru olmadığının tespiti halinde kaydı geçersiz sayılarak Sakarya Üniversitesi ile ilişiği kesilir ve hakkında hukuki süreç başlatılır.",
+  "Topic": "Yurt Dışı Yatay Geçiş ve Özel Durumlar"
+ },
+ {
+  "Question": "Yandal programı başvuru şartları ve gerekli belgeler nelerdir?",
+  "Answer": "Başvuru Şartları:\nZaman Kısıtlaması: Yandal programına başvurular, öğrencinin lisans diploma programında en erken üçüncü yarıyılın başında başlar. En geç başvuru dönemleri ise program süresine göre değişir:\nDört yıllık programlarda: Beşinci yarıyılın başında.\nBeş yıllık programlarda: Yedinci yarıyılın başında.\nAltı yıllık programlarda: Dokuzuncu yarıyılın başında.\nGenel Başarı: Öğrencinin bulunduğu döneme kadar ders planındaki tüm dersleri almış ve başarmış olması şarttır.\nNot Ortalaması: Genel ağırlıklı not ortalamasının (GNO) en az 2.50\/4.00 ve üzeri olması zorunludur.\nProgram Kısıtlaması: Öğrenci, kendi bölümünde açılan yandal programlarına başvuramaz.\nTercih Sayısı: Bir öğrenci aynı anda en fazla iki yandal programına tercih sıralaması yaparak başvurabilir, ancak sadece bir yandal programına kayıt yaptırabilir.\nGerekli Belgeler ve Başvuru Şekli:\nYandal programına başvuru koşulları ve başvuru için gerekli belgeler Öğrenci İşleri Daire Başkanlığı (ÖİDB) tarafından ilan edilir.\nBaşvurular, ilan edilen başvuru takviminde belirtilen son başvuru tarihine kadar elektronik ortamda yapılmalıdır.\nÖİDB tarafından ön incelemeden geçen elektronik başvurular, şartları sağlamaması halinde reddedilir. Başvuruların içerik açısından değerlendirmesini ve puanlandırmasını ise ilgili bölüm yapar."
+ },
+ {
+  "Question": "Çift anadal programı (ÇAP) başvuru şartları ve gerekli belgeler nelerdir?",
+  "Answer": "Başvuru Şartları:\nZaman Kısıtlaması: ÇAP'a başvuru dönemleri program düzeyine göre farklılık gösterir:\nLisans Programlarında: En erken üçüncü yarıyılın başında, en geç ise dört yıllık programlarda beşinci, beş yıllık programlarda yedinci ve altı yıllık programlarda dokuzuncu yarıyılın başında başvuru yapılabilir.\nÖn Lisans Programında: En erken ikinci yarıyılın başında, en geç ise üçüncü yarıyılın başında başvuru yapılabilir.\nGenel Başarı: Başvuru için anadal diploma programında bulunulan döneme kadar tüm derslerin alınmış ve başarılmış olması gerekir.\nNot Ortalaması: Genel Not Ortalamasının (GNO) en az 2,72\/4,00 olması şarttır. (Ortalama hesabında başvuru yapılan yarıyıl itibarıyla üst yarıyıldan alınmış derslerin başarı durumuna bakılmaz ve genel not ortalaması hesabına katılmaz ).\nBaşarı Sıralaması: Öğrencinin anadal programının ilgili sınıfında başarı sıralaması itibarıyla en üst yüzde yirmisinde bulunması gerekir.\nAlternatif Başvuru: GNO'su en az 2,72\/4,00 olan, ancak yüzde yirmilik dilimde bulunamayan öğrenciler de, ÇAP yapılacak programın ilgili yıldaki taban puanından az olmamak üzere puana sahip olmak kaydıyla başvurabilirler.\nÖzel Şartlar: Başarı sıralaması şartı aranan programlarda çift anadal yapmak isteyen öğrencinin, kayıt olduğu yıldaki ilgili programın YÖK tarafından belirlenen başarı sıralaması şartını sağlamış olması gerekir. Tamamen veya kısmen yabancı dille eğitim yapan bir programa başvuru yapılması durumunda ise ilgili bölümün dil yeterliliğinin sağlanmış olması şarttır.\nGerekli Belgeler ve Değerlendirme:\nBaşvurular elektronik ortamda yapılır. ÖİDB tarafından ön incelemeden geçen başvurular şartları sağlamaması halinde reddedilir.\nBaşvuruların içerik değerlendirmesini ve puanlandırmasını ilgili bölüm yapar.\nDeğerlendirmede öncelikle GNO'ya bakılır, GNO'nun eşitliği halinde ise öğrencinin tamamlamış olduğu toplam kredisine bakılır ve fazla kredi tamamlamış olan öğrencilere öncelik verilir.\nYetenek sınavı ile öğrenci alan ÇAP'a öğrenci kabulünde yetenek sınavında da başarılı olma şartı aranır."
+ },
+ {
+  "Question": "Ders muafiyeti şartları ve gerekli belgeler nelerdir?",
+  "Answer": "Ders Muafiyeti Şartları:\nGenel Başarı: Muafiyet talep edilen dersin, daha önce Yükseköğretim Kurulu Başkanlığınca tanınan veya denkliği kabul edilen herhangi bir yükseköğretim kurumundan alınmış ve başarılı olunmuş olması gerekir.\nİçerik ve Kredi Uyumu: Muafiyet için kredi (AKTS\/Ders kredisi) ve içerik uyumuna göre ders\/derslerin eşdeğerliğinin kabul edilmesi şarttır. Farklı kurumlardan alınan bir ders, AKTS ve içeriğinin uyumu dikkate alınarak en fazla iki derse eşdeğer sayılabilir.\nYurt Dışı Kurumlar: Yükseköğretim Kurulu tarafından denkliği tanınmayan yurt dışındaki üniversitelerden alınan dersler için muafiyet ve intibak işlemleri yapılamaz.\nNot Şartı: Aynı notlandırma sisteminde olması kaydıyla, diğer üniversiteden alınan ders başarı notunun, Sakarya Üniversitesi ders başarı notunun altında kalması durumunda muafiyet verilmez.\nÖzel Dersler: Bitirme Çalışması, tasarım, İşyeri eğitimi, İş yeri uygulaması gibi dersler için muafiyet talep edilemez.\nYabancı Dille Öğretim: Daha önce Türkçe olarak alınan derslerin, yabancı dille okutulan derslere muafiyet talebi ancak yabancı dil yeterliliğine sahip öğrenciler için değerlendirmeye alınır.\nBaşvuru Süresi ve Gerekli Belgeler:\nBaşvuru Süresi: Öğrencilerin, muafiyet ve intibak işlemleri için, Üniversiteye kayıt oldukları eğitim-öğretim yılının ikinci haftası sonuna kadar ilgili bölüm başkanlığına başvurmaları gerekmektedir.\nEğitim-öğretim başlangıç tarihinden sonra kayıt yaptıranların ise, kayıt tarihinden itibaren en geç iki hafta içinde başvuru yapmaları gerekir.\nBelirtilen süreler dışında, öğrenim süresi boyunca bir daha muafiyet başvurusu yapılamaz, ancak ders planına yeni eklenen dersler için talep yapılabilir.\nGerekli Belgeler:\nDaha önce almış ve başarmış olduğu ders\/dersler karşılığında hangi ders\/derslerden muafiyet talep ettiğini belirten dilekçe.\nDaha önce öğrenim gördüğü yükseköğretim kurumu tarafından onaylı ders içerikleri.\nDaha önce öğrenim gördüğü yükseköğretim kurumu tarafından onaylı transkripti (Not Çizelgesi).\nMuafiyet istenen ders farklı bir dilde alınmış ise ilgili kurum ya da noter onaylı Türkçe ders içeriği ve transkriptinin de dilekçeye eklenmesi gerekir."
+ }
+]
