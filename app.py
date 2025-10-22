@@ -315,11 +315,12 @@ def chat_fn(question):
 # --- Gradio Arayüzü Tanımlama ---
 
 # Kullanılacak bileşenler
-with gr.Blocks(title="SAÜ ÇAP-YANDAL-MUAFİYET ASİSTANI") as demo:
+with gr.Blocks(title="ÇAP-YANDAL-MUAFİYET BİLGİ ASİSTANI") as demo:
     gr.Markdown(
         """
-        # Sakarya Üniversitesi RAG Asistanı
+        # RAG Asistanı
         Sakarya Üniversitesi Çap-Yandal Yönergesi, Muafiyet-İntibak Yönergesi ve Yatay Geçiş Yönergesi kullanılmıştır.
+        Bu uygulama, bir akademik proje/demo olup **RESMİ BİLGİ KAYNAĞI DEĞİLDİR.** Verilen cevaplar referans amaçlıdır. Lütfen tüm yasal ve idari süreçler için her zaman [SAÜ'nün Resmi Web Sitesi](https://www.sakarya.edu.tr) üzerinden güncel yönergeleri kontrol edin.
         """
     )
 
