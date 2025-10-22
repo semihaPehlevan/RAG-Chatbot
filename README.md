@@ -132,3 +132,12 @@ RAG-Chatbot/
 ├── requirements.txt         # Proje bağımlılıkları
 ├── .env                     # GOOGLE_API_KEY (yerel kullanım için)
 └── README.md                # Proje dokümantasyonu
+```
+
+---
+
+## ✨ Elde Edilen Sonuçlar  
+ 
+  RAG mimarisi sayesinde yanıtlar yalnızca yönerge metinlerine dayanır; LLM kaynaklı hatalar en aza indirilir.  
+  Türkçe için optimize edilmiş embedding modeli ve Hibrit Arama (HyDE + Kısaltma Haritası) kullanılarak en alakalı Soru-Cevap dokümanı hedeflenir. 
+  Proje, yanıt tutarlılığını ve kapsamını artırmak amacıyla geliştirilmeye devam edilecektir.  
